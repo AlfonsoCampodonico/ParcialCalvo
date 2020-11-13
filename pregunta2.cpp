@@ -1,4 +1,5 @@
 /*
+Enunciado:
 2.Ejemplificar en un segmento de código cómo dos 
 punteros de distinto tipo leen y escriben de 
 distinta manera el mismo área de memoria.
@@ -24,7 +25,9 @@ int main()
     return 0;
 }
 
-
+/*
+Valor: 1.0/1.0
+*/
 
 /*
 Comentarios:
