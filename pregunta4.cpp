@@ -1,4 +1,5 @@
 /*
+Entero:
 Escribir un segmento de código que utilice un puntero para leer 
 y modificar el valor de una variable alojada en el stack de la 
 función main desde otra función.
@@ -18,6 +19,10 @@ int main()
 	std::cout << "a :" << a << std::endl;
 	return 0;
 }
+
+/*
+Valor: 1.0/1.0
+*/
 
 /*
 Comentarios:
