@@ -2,4 +2,4 @@
 
 Preguntas y posibles respuestas de la evaluacion de la catedra.
 
-Nota: 9.8/10.0
+Nota: ?/10.0
